@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Optotype Application</string>
+    <string name="user_name_default">User Name or Email</string>
+    <string name="password_default">Password</string>
+    <string name="button_login">Aceptar</string>
+    <string name="title_activity_dash_board">DashBoardActivity</string>
+</resources>
